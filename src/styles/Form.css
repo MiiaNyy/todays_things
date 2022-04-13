@@ -1,0 +1,16 @@
+.Form {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.Form input {
+    border-radius: 5px;
+    padding: 0.5em 0.8em;
+}
+
+.Form input[type=text] {
+    width: 80%;
+}
